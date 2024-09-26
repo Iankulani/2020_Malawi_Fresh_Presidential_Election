@@ -24,12 +24,17 @@ But this was not just a solution for Malawi. The developers envisioned their sof
 With its user-friendly interface and robust functionality, the system promised to safeguard democracy wherever it was deployed.
 
 
-![Screenshot_2024-09-24_03_17_14](https://github.com/user-attachments/assets/308a3e3a-fd9d-408a-8768-8849768406ec)
-![Screenshot_2024-09-24_03_06_17](https://github.com/user-attachments/assets/bc76f9ca-b47f-48d1-997f-9c4d81a4eaa4)
-![Screenshot_2024-09-24_03_05_47](https://github.com/user-attachments/assets/ad7ad1af-bc98-44f9-9d6d-ca48fc4203ef)
-![Screenshot_2024-09-24_03_05_43](https://github.com/user-attachments/assets/1f77b534-b9ab-45e9-bd39-822d9031d6b0)
-![Screenshot_2024-09-24_03_05_38_edited](https://github.com/user-attachments/assets/ee0568a6-54be-49c2-a6eb-2a1ae4ba92bf)
-![Screenshot_2024-09-24_03_05_38](https://github.com/user-attachments/assets/3a1502b4-f4ef-4d21-8533-fcdb65048585)
+![Screenshot_2024-09-24_03_17_57](https://github.com/user-attachments/assets/0b083aed-2233-4c87-90f4-868240bb445f)
+![Screenshot_2024-09-24_03_17_40](https://github.com/user-attachments/assets/ad6130f4-fbe3-40fb-9ace-104a663ec355)
+![Screenshot_2024-09-24_03_17_27_edited](https://github.com/user-attachments/assets/06461db2-ba60-4f8c-9281-e5da841352f4)
+![Screenshot_2024-09-24_03_17_27_edite](https://github.com/user-attachments/assets/90a023ef-6a15-4e95-a590-a46a4dee15d6)
+![Screenshot_2024-09-24_03_17_27](https://github.com/user-attachments/assets/4033df85-47f8-4890-8435-315b43790eca)
+![Screenshot_2024-09-24_03_17_14](https://github.com/user-attachments/assets/3020af6e-4e83-4ed3-aab0-228b7c3187b8)
+![Screenshot_2024-09-24_03_06_17](https://github.com/user-attachments/assets/bafdf132-e00a-4d82-99e8-487c05bb1bdd)
+![Screenshot_2024-09-24_03_05_47](https://github.com/user-attachments/assets/c43ad963-3b10-4c33-8cc3-0d54e013b530)
+![Screenshot_2024-09-24_03_05_43](https://github.com/user-attachments/assets/b441a4ba-ceb7-49c6-928a-92cc903b7098)
+![Screenshot_2024-09-24_03_05_38_edited](https://github.com/user-attachments/assets/d65f66ce-8273-49d4-a74f-1ea4d8aa2232)
+![Screenshot_2024-09-24_03_05_38](https://github.com/user-attachments/assets/6d9dd495-8fe5-4cd8-a601-ec61d19afba5)
 
 
 
@@ -47,7 +52,6 @@ Your support can help us refine and expand our capabilities, making it an even m
 If you’re interested in sponsorship or partnership opportunities, please reach out to us. Let’s work together to create a brighter, more equitable future for all.
 
 Thank you for your support!
-
 
 iancarterkulani@gmail.com
 
