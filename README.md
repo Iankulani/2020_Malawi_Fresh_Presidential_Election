@@ -55,3 +55,8 @@ Thank you for your support!
 
 iancarterkulani@gmail.com
 
+
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Iankulani/2020_Malawi_Fresh_Presidential_Election&type=Date)](https://star-history.com/#Iankulani/2020_Malawi_Fresh_Presidential_Election&Date)
+
